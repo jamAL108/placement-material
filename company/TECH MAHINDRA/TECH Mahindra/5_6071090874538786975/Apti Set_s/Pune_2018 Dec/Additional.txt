@@ -1,0 +1,8 @@
+
+
+Interview; 
+Q.1 Is Java pure object oriented 
+Q.2 About Interface
+Q.3 Is Java support all the inheritance Which inheritance not supported and why 
+Q.project details 
+Q.  About yourself

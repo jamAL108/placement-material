@@ -1,0 +1,49 @@
+___________________________________________________________________________________
+
+COMPANY NAME : MBT (Mahindra British Telecom)
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: Abhilash K 
+Sent: Friday, June 27, 2003 10:18 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] MBT Unix/C++ test Pattern
+
+
+Hi all,
+
+MBT walkin for UNix section comprises of UNIX/C++
+written test and those who clear the test will appear
+for an interview. The C++ test consists of questions
+based on inheritance, static variables/functions, pure
+virtual functions, virtual functions  etc. Code
+snippets will be given, You have to either find the
+output or errors. It is quite an easy test. Unix
+section consists of simple questions. 
+
+Abhilash K
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

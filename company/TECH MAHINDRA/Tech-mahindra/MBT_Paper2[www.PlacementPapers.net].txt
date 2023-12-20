@@ -1,0 +1,73 @@
+___________________________________________________________________________________
+
+COMPANY NAME : MBT (Mahindra British Telecom)
+------------------------------------------------------------
+DATE OF TEST : 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: Niranjan Das 
+Sent: Sunday, July 13, 2003 7:40 AM
+To: Vijay Kumar Miriyala
+Cc: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] Re: Regarding MBT
+
+
+Daer vijay, 
+
+The test was for about 40 mints. I wrote the test in one of MBT's consultant. So i guess it gonna be diff at MBT. 
+
+There were 20 C++ Q. I dont remeber them as i am not proficient in C++. But it comprises of only basic knowledge in C++ from Virtual Fn, Inheritance etc. Question were asked to give the O/P of a given code segment. There were 5 Unix Q too. 
+
+it was... 
+
+1. How can a process be started automatically in UNIX ? 
+
+ANS : Through CRONTAB { options were crontab, inittab, and two more } 
+
+2. What is the meaning of run level 6 ? 
+
+ANS. Reboot 
+
+3. How can you determine which file has generated the CORE ? 
+
+Options were.. 
+
+1.ps -ef | grep core 
+
+2.ps -ef | grep <executable file name > 
+
+3.pfile core 
+
+4.filec core 
+
+Options 1 or 2 may be correct i am not sure. 
+
+Regards , 
+
+Niranjan 
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

@@ -1,0 +1,78 @@
+    
+
+
+ MBT - Question paper - 04    Conducted On -- 19-July-2003       Place : Pune 
+
+--------------------------------------------------------------------------------
+COMPANY NAME : MBT (Mahindra British Telecom)
+------------------------------------------------------------
+DATE OF TEST : 19 July 2003
+------------------------------------------------------------
+PLACE OF TEST: Pune
+------------------------------------------------------------
+MODE : Off-Campus
+------------------------------------------------------------
+DURATION : 
+____________________________________________________________
+
+the test was aptitude: 55 min,, (68 quest)
+(6 section, 
+[section][time][no of quest][type]
+1 10 15 small logical/mathematical quiz (most of from old paper
+2 10 10 numerical series completeion and visual seies completion[3 quest repeated from old papers[
+3 10 16 [mix type quest,, such as reasoning (eg all A r B, all B r C so all A r C ,,some C r A etccc..,, one quiz followed by 4 quest] 
+4 10 9 [2 flow chart: means,, one puzzle was described as steps of flow chart, and condition was also given,, in flow chart some fields were having ? ,, u have to select appropriate option from the given option to place instead of ? ,so that logic is correct...
+2nd flow chart was very easy(4 quest),, while in 1st first 3 were easy rest 2 were not hard, but very time consuming,, so i skipped last 2 of them and attended 2nd flow chart...]
+5 10 8 [RC, really tough,, 5 minute to read longgg (with lot of data of course)the rc and remember whatever u can,, followed by 9/8 quest in 5 minutes,, u r not allowed to see rc again,,,i was able to attend only one in this section...
+6 5 10 [data sufficency,, very easy and scoring section,but only 5 moniutes to answer 10 quest...]
+
+no section cut off
+only overall cut off
+strictly 1:1 -ve marking...
+shortlisted candidates will be informed by email within 10 days for HR & Technical Int...
+test was only for BE (CSE,IT ,IS) and BSc(maths, chemi, physics,,, and one other discipline) ,No EC,ECT, or MCA,,,,
+2002 and 2003 passouts, 60% or more aggregate at ssc,hsc and BE, should be cleared on 1st attempt..
+
+some of quest I remember:
+1. if M person r buying a thing costing D$ each,, if 3 person get away,, how much each person has to spend so that total expenditure is same ???
+
+2. which is smaleest?
+a. 1/7
+b 1/8
+c 2/9
+d 3/13 ...or something similar having denom. as 11 and 13 in option "d" and "e"
+
+3. if Rix can collect 45 pieces in 1 min.. and Rax take 1 and half minute for same,, what is time require d to colloect 300 pieces when both working togetthre??
+4. one long quiz followed by 5 quest... 3 cages having 3 tags on them, sum of digit of cage num not to exceed 10, and other cond...
+5. one quest of grandfather-father-son type quest..
+6. A is shortr than B but taller than E, D is tallest, C is just shorter than A, who is shorttest or similar quest...?
+7. rectangualr box,, 25*20*2 converted in to cylinder of dia 10... what is height in terms of "pai"
+
+section 2: series...
+1. find the numer for ? 
+2. find the numer for ?
+3 1,3,4,8,15,27,? 
+4. 2,5,9,19,37,?
+5. these were reapeat from old quest...
+
+section 3. 
+simple reasoning,4-5 quest.
+1 quest followed by 3 quest.
+1 quest followed by 3/4 quest. 
+other quiz...
+
+section 4. 2flowchart .. 2nd was, A & B drawing ball. 2 ball Red & yellow,, if red is the drawen ball 100 points r awaredrd,otherwise 200 points awareded... if A or B score 500,, their points r forfieted,, 
+if A or B score 1000 or more, he is winner...
+
+four quest based on this puzzle, given as missing ? in flowchart
+
+section 5. RC related to turnover of companies etc...(8 quest)
+section 6 data sufficiency 
+1. whether n is odd?
+a. m+5n is odd
+b. 2m+9n is odd
+these quest were easy, but u required speed to attend all
+ 
+----------------------------------------------Freshersworld.com 
+ 
+ 
